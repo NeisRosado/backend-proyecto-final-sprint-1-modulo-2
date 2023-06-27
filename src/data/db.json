@@ -3,41 +3,41 @@
       {
           "id": 1,
           "name": "Ana",
-          "phone_number": "3011111",
-          "password": "1234",
-          "profile_pic_url": "https://img.freepik.com/foto-gratis/flores-color-rosa-rosa_24837-301.jpg",
-          "is_online": false,
-          "about": "Soy programadora :D",
-          "last_time": "2023-06-12T12:45:34.000-04:00"
-      },
-      {
-          "id": 2,
-          "name": "Juan",
-          "phone_number": "234445",
+          "phone_number": "301302303",
           "password": "12345",
-          "profile_pic_url": "https://thumbs.dreamstime.com/b/bal%C3%B3n-del-f%C3%BAtbol-o-de-f%C3%BAtbol-en-el-saque-de-centro-de-un-juego-con-puesta-del-sol-38302251.jpg",
-          "is_online": false,
-          "about": "Soy programador :D",
-          "last_time": "2023-06-13T12:45:34.000-04:00"
-      },
-      {
-          "id": 3,
-          "name": "Neis",
-          "phone_number": "123456",
-          "password": "012",
-          "profile_pic_url": "https://img.freepik.com/fotos-premium/flor-gerbera-color-rosa-fondo-mismo-color-espacio-texto_608742-12.jpg",
+          "profile_pic_url": "https://img.freepik.com/free-photo/happy-pretty-woman-taking-selfie_176420-18286.jpg?w=740&t=st=1687892956~exp=1687893556~hmac=eca340e8ba3a8610a31d9d78df9b628fa65eac1dea8d5c6b0e8878721789d017",
           "is_online": false,
           "about": "Disponible",
           "last_time": "2023-06-12T12:45:34.000-04:00"
       },
       {
+          "id": 2,
+          "name": "Juan",
+          "phone_number": "302303304",
+          "password": "54321",
+          "profile_pic_url": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=740&t=st=1687893049~exp=1687893649~hmac=b1ef25d513b4ab212dd8fb509723f9c43d520c43b835b0782476af1739eba251",
+          "is_online": false,
+          "about": "La vida es corta, usa Python",
+          "last_time": "2023-06-13T12:45:34.000-04:00"
+      },
+      {
+          "id": 3,
+          "name": "Neis",
+          "phone_number": "303304305",
+          "password": "12345",
+          "profile_pic_url": "https://img.freepik.com/free-photo/portrait-attractive-adult-girl-with-long-dark-curly-hair-wearing-earrings-pastel-pink-shirt-has-make-up-broadly-smiling_295783-14161.jpg?w=740&t=st=1687894011~exp=1687894611~hmac=6f633dcc58fba42528bc6bebd0a4a162791927dde956170666a5c45c4b7f174d",
+          "is_online": false,
+          "about": "Smile!",
+          "last_time": "2023-06-12T12:45:34.000-04:00"
+      },
+      {
           "id": 4,
           "name": "Ximena",
-          "phone_number": "301404",
-          "password": "1037",
-          "profile_pic_url": "https://i.pinimg.com/236x/b8/87/21/b8872149137ef1da974f7731cf08b5d2--gify-glitter-graphics.jpg",
+          "phone_number": "304305306",
+          "password": "54321",
+          "profile_pic_url": "https://i.pinimg.com/236x/b8/87/21/b8872149137ef1da974f7731cf08b5d2--gify-glitter-graphics.jpghttps://img.freepik.com/free-photo/portrait-young-girl-smiling_23-2149260597.jpg?w=740&t=st=1687893872~exp=1687894472~hmac=7d4a26b9672ea40752fa24794eccf0bdc44f8a3de3ef9f78d530c437e023c536",
           "is_online": false,
-          "about": "Estoy manejando",
+          "about": "No molestar",
           "last_time": "2023-06-12T12:45:34.000-04:00"
       }
   ],
@@ -50,14 +50,14 @@
                   "send_by": 1,
                   "date": "2023-06-12",
                   "hour": "12:45:34",
-                  "message": "holiiii",
+                  "message": "Hola, ¿Que tal todo?",
                   "viewed": true
               },
               {
                   "send_by": 2,
                   "date": "2023-06-12",
                   "hour": "12:45:34",
-                  "message": "holiiii que mas?",
+                  "message": "Hey, todo tranqui, disfrutando las vacaciones.",
                   "viewed": false
               }
           ]
