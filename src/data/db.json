@@ -35,32 +35,237 @@
           "name": "Ximena",
           "phone_number": "304305306",
           "password": "54321",
-          "profile_pic_url": "https://i.pinimg.com/236x/b8/87/21/b8872149137ef1da974f7731cf08b5d2--gify-glitter-graphics.jpghttps://img.freepik.com/free-photo/portrait-young-girl-smiling_23-2149260597.jpg?w=740&t=st=1687893872~exp=1687894472~hmac=7d4a26b9672ea40752fa24794eccf0bdc44f8a3de3ef9f78d530c437e023c536",
+          "profile_pic_url": "https://img.freepik.com/free-photo/portrait-young-girl-smiling_23-2149260597.jpg?w=740&t=st=1687893872~exp=1687894472~hmac=7d4a26b9672ea40752fa24794eccf0bdc44f8a3de3ef9f78d530c437e023c536",
           "is_online": false,
           "about": "No molestar",
           "last_time": "2023-06-12T12:45:34.000-04:00"
       }
   ],
-  "messages" : [
-      {
-          "id_user_1": 1,
-          "id_user_2": 2,
-          "chat": [
-              {
-                  "send_by": 1,
-                  "date": "2023-06-12",
-                  "hour": "12:45:34",
-                  "message": "Hola, ¿Que tal todo?",
-                  "viewed": true
-              },
-              {
-                  "send_by": 2,
-                  "date": "2023-06-12",
-                  "hour": "12:45:34",
-                  "message": "Hey, todo tranqui, disfrutando las vacaciones.",
-                  "viewed": false
-              }
-          ]
-      }
+  "messages" :[
+    {
+      "id_user_1": 1,
+      "id_user_2": 2,
+      "user_1_name": "John",
+      "user_2_name": "Emily",
+      "user_1_profile_url": "https://img.freepik.com/free-photo/male-traveler-montenegro-outdoors_23-2149040852.jpg?w=360&t=st=1688092839~exp=1688093439~hmac=86538087b10c3e8e5bf757e96eec7c48a10dbb62599844aaf7ec59942e646370",
+      "user_2_profile_url": "https://img.freepik.com/free-photo/portrait-blonde-woman-looking-photographer_23-2148348970.jpg?w=360&t=st=1688092871~exp=1688093471~hmac=842f1d6df269a89677aaaab84b4c25682d3806d3af4dc91308d71d2a81c311e9",
+      "chat": [
+        {
+          "send_by": 1,
+          "date": "2023-06-12",
+          "hour": "12:45:34",
+          "message": "Hola, ¿Qué tal todo?",
+          "viewed": true
+        },
+        {
+          "send_by": 2,
+          "date": "2023-06-12",
+          "hour": "12:46:20",
+          "message": "¡Hey! Todo tranquilo, disfrutando las vacaciones.",
+          "viewed": false
+        },
+        {
+          "send_by": 1,
+          "date": "2023-06-12",
+          "hour": "12:47:05",
+          "message": "Genial, ¿has visitado algún lugar interesante?",
+          "viewed": true
+        },
+        {
+          "send_by": 2,
+          "date": "2023-06-12",
+          "hour": "12:48:15",
+          "message": "Sí, estuve en París la semana pasada. ¡Fue increíble!",
+          "viewed": false
+        },
+        {
+          "send_by": 1,
+          "date": "2023-06-12",
+          "hour": "12:49:30",
+          "message": "Wow, eso suena increíble. Me encantaría visitar París algún día.",
+          "viewed": true
+        }
+      ]
+    },
+    {
+      "id_user_1": 3,
+      "id_user_2": 4,
+      "user_1_name": "Mark",
+      "user_2_name": "Sophia",
+      "user_1_profile_url": "https://img.freepik.com/free-photo/blissful-young-man-trendy-sunglasses-posing-with-smile-during-hiking-trip-italian-alps-showing-peace-sign_197531-4385.jpg?w=740&t=st=1688093028~exp=1688093628~hmac=daa18d01d21fef261337d19481a1a5d0d5687d6c4902096a85a894f0cc73aca0",
+      "user_2_profile_url": "https://img.freepik.com/free-photo/adorable-white-woman-taking-picture-herself-glasshouse-with-flowers-laughing-pleasant-woman-making-selfie-orangery_197531-12396.jpg?w=740&t=st=1688093064~exp=1688093664~hmac=bc594b948a7fcdb08b237bcbbdd3bde44dd321109e5be36cdc8abcee6aacb97c",
+      "chat": [
+        {
+          "send_by": 3,
+          "date": "2023-06-13",
+          "hour": "10:20:15",
+          "message": "Hola, ¿cómo estás?",
+          "viewed": true
+        },
+        {
+          "send_by": 4,
+          "date": "2023-06-13",
+          "hour": "10:21:05",
+          "message": "¡Hola! Estoy bien, gracias. ¿Y tú?",
+          "viewed": true
+        },
+        {
+          "send_by": 3,
+          "date": "2023-06-13",
+          "hour": "10:22:30",
+          "message": "Todo bien también. ¿Qué has estado haciendo?",
+          "viewed": true
+        },
+        {
+          "send_by": 4,
+          "date": "2023-06-13",
+          "hour": "10:23:15",
+          "message": "He estado estudiando para mis exámenes finales.",
+          "viewed": true
+        },
+        {
+          "send_by": 3,
+          "date": "2023-06-13",
+          "hour": "10:24:40",
+          "message": "¡Buena suerte con eso!",
+          "viewed": true
+        }
+      ]
+    },
+    {
+      "id_user_1": 5,
+      "id_user_2": 6,
+      "user_1_name": "David",
+      "user_2_name": "Gustavo",
+      "user_1_profile_url": "https://img.freepik.com/free-photo/portrait-man-writing-letter_23-2148935049.jpg?w=740&t=st=1688093143~exp=1688093743~hmac=1d436bbd6b9f49546e47b58656dc0e2ba0280b509682ebb042017c33285f47a0",
+      "user_2_profile_url": "https://img.freepik.com/free-photo/man-keeps-arms-folded-looks-with-self-confident-cheerful-expression-wears-formal-shirt-spectacles-vision-correction-blue-wall_273609-54788.jpg?w=740&t=st=1688093232~exp=1688093832~hmac=6a2927adeb9f5bc5f7141a69ea7fd03f34abe22f18f967287514f235b0e10601",
+      "chat": [
+        {
+          "send_by": 5,
+          "date": "2023-06-14",
+          "hour": "15:10:30",
+          "message": "¡Hola! ¿Cómo has estado?",
+          "viewed": true
+        },
+        {
+          "send_by": 6,
+          "date": "2023-06-14",
+          "hour": "15:11:20",
+          "message": "¡Hola! He estado ocupada con mi proyecto final.",
+          "viewed": true
+        },
+        {
+          "send_by": 5,
+          "date": "2023-06-14",
+          "hour": "15:12:15",
+          "message": "Entiendo, los proyectos finales pueden ser desafiantes. ¿En qué estás trabajando?",
+          "viewed": true
+        },
+        {
+          "send_by": 6,
+          "date": "2023-06-14",
+          "hour": "15:13:05",
+          "message": "Estoy trabajando en un proyecto de diseño de interiores.",
+          "viewed": true
+        },
+        {
+          "send_by": 5,
+          "date": "2023-06-14",
+          "hour": "15:14:10",
+          "message": "¡Eso suena interesante! ¿Cómo va hasta ahora?",
+          "viewed": true
+        }
+      ]
+    },
+    {
+      "id_user_1": 7,
+      "id_user_2": 8,
+      "user_1_name": "Juliana",
+      "user_2_name": "Isabella",
+      "user_1_profile_url": "https://img.freepik.com/free-photo/beautiful-young-blissful-smiling-woman-posing-street-bright-sunny-light-trendy-elegant-blue-dress-natural-make-up-positive-mood_291049-1740.jpg?w=740&t=st=1688093334~exp=1688093934~hmac=b549b996926101b86df4588d90586eaedf77d08e2ada4c4445862ca0b6ca9be0",
+      "user_2_profile_url": "https://img.freepik.com/free-photo/portrait-stylish-traveller-with-hat-sunglasses_23-2148588495.jpg?w=740&t=st=1688093465~exp=1688094065~hmac=c3dcb3c3a11286f07f9da8b121ab34ac79eea84af0f1a5ff0781e89ea7af6a8d",
+      "chat": [
+        {
+          "send_by": 7,
+          "date": "2023-06-15",
+          "hour": "18:55:45",
+          "message": "¡Hola! ¿Qué has estado haciendo últimamente?",
+          "viewed": true
+        },
+        {
+          "send_by": 8,
+          "date": "2023-06-15",
+          "hour": "18:56:30",
+          "message": "Hola, he estado viajando por diferentes países. ¡Ha sido una aventura!",
+          "viewed": true
+        },
+        {
+          "send_by": 7,
+          "date": "2023-06-15",
+          "hour": "18:57:20",
+          "message": "¡Eso suena increíble! ¿Cuál ha sido tu lugar favorito hasta ahora?",
+          "viewed": true
+        },
+        {
+          "send_by": 8,
+          "date": "2023-06-15",
+          "hour": "18:58:15",
+          "message": "Es difícil elegir, pero me encantó la belleza natural de Nueva Zelanda.",
+          "viewed": true
+        },
+        {
+          "send_by": 7,
+          "date": "2023-06-15",
+          "hour": "18:59:30",
+          "message": "¡Debes tener fotos increíbles de tus viajes!",
+          "viewed": true
+        }
+      ]
+    },
+    {
+      "id_user_1": 9,
+      "id_user_2": 10,
+      "user_1_name": "Christina",
+      "user_2_name": "Emma",
+      "user_1_profile_url": "https://img.freepik.com/free-photo/portrait-pretty-lady-red-warm-jacket-stylish-eyeglasses_197531-15046.jpg?w=740&t=st=1688093571~exp=1688094171~hmac=62926acbc466e67b9daddeee441eb875feed8da8005c1c9b447a766775c6ff78",
+      "user_2_profile_url": "https://img.freepik.com/free-photo/excited-man-black-denim-jacket-chilling-with-girlfriend-outdoor-portrait-happy-couple-exploring-city_197531-12259.jpg?w=740&t=st=1688093620~exp=1688094220~hmac=99cbdcb9a476c94659522b6223123cc3066430554e312add01e0ceff56a438b2",
+      "chat": [
+        {
+          "send_by": 9,
+          "date": "2023-06-16",
+          "hour": "21:05:55",
+          "message": "Hola, ¿has visto la última película que salió al cine?",
+          "viewed": true
+        },
+        {
+          "send_by": 10,
+          "date": "2023-06-16",
+          "hour": "21:06:40",
+          "message": "¡Hola! No la he visto todavía, ¿es buena?",
+          "viewed": true
+        },
+        {
+          "send_by": 9,
+          "date": "2023-06-16",
+          "hour": "21:07:20",
+          "message": "Sí, es realmente genial. Te la recomiendo.",
+          "viewed": true
+        },
+        {
+          "send_by": 10,
+          "date": "2023-06-16",
+          "hour": "21:08:10",
+          "message": "Gracias por la recomendación. Definitivamente la veré.",
+          "viewed": true
+        },
+        {
+          "send_by": 9,
+          "date": "2023-06-16",
+          "hour": "21:09:05",
+          "message": "¡Genial! Disfrútala.",
+          "viewed": true
+        }
+      ]
+    }
   ]
 }
