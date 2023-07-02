@@ -43,6 +43,74 @@
   ],
   "messages": [
     {
+        "idUser1": 1,
+        "idUser2": 4,
+        "conversations": [
+          {
+            "sendBy": 1,
+            "date": "2023-06-30",
+            "hour": "10:30 AM",
+            "message": "Hola, estás ocupado, necesito un favor tuyo",
+            "flag": false
+          },
+          {
+            "sendBy": 4,
+            "date": "2023-06-30",
+            "hour": "10:35 AM",
+            "message": "Hola, no, estoy en casa, dime",
+            "flag": true
+          },
+          {
+            "sendBy": 1,
+            "date": "2023-06-30",
+            "hour": "10:40 AM",
+            "message": "Me puedes ayudar a hacer una tarea",
+            "flag": false
+          },
+          {
+            "sendBy": 4,
+            "date": "2023-06-30",
+            "hour": "10:45 AM",
+            "message": "Dime de que se trata",
+            "flag": true
+          }
+        ]
+      },
+    {
+        "idUser1": 4,
+        "idUser2": 2,
+        "conversations": [
+          {
+            "sendBy": 2,
+            "date": "2023-06-30",
+            "hour": "10:30 AM",
+            "message": "Buenos días",
+            "flag": false
+          },
+          {
+            "sendBy": 4,
+            "date": "2023-06-30",
+            "hour": "10:35 AM",
+            "message": "Muy buenos, como vas ?",
+            "flag": true
+          },
+          {
+            "sendBy": 2,
+            "date": "2023-06-30",
+            "hour": "10:40 AM",
+            "message": "Muy bien, trabajando y tu?",
+            "flag": false
+          },
+          {
+            "sendBy": 4,
+            "date": "2023-06-30",
+            "hour": "10:45 AM",
+            "message": "Estoy estudiando para un examen.",
+            "flag": true
+          }
+        ]
+      },
+    {
       "idUser1": 1,
       "idUser2": 2,
       "conversations": [
@@ -77,32 +145,32 @@
       ]
     },
     {
-      "idUser1": 2,
-      "idUser2": 1,
+      "idUser1": 3,
+      "idUser2": 4,
       "conversations": [
         {
-          "sendBy": 2,
+          "sendBy": 4,
           "date": "2023-06-30",
           "hour": "11:00 AM",
           "message": "Hola, ¿qué tal?",
           "flag": false
         },
         {
-          "sendBy": 1,
+          "sendBy": 3,
           "date": "2023-06-30",
           "hour": "11:05 AM",
           "message": "Hola, todo bien. Gracias",
           "flag": true
         },
         {
-          "sendBy": 2,
+          "sendBy": 4,
           "date": "2023-06-30",
           "hour": "11:10 AM",
           "message": "¿Has planeado algo para el fin de semana?",
           "flag": false
         },
         {
-          "sendBy": 1,
+          "sendBy": 3,
           "date": "2023-06-30",
           "hour": "11:15 AM",
           "message": "Sí, planeo descansar y pasar tiempo con mi familia.",
