@@ -51,32 +51,28 @@
           {
             "id": 1,
             "sendBy": 1,
-            "date": "1688438569",
-            "hour": "1688438563",
+            "dateTime": "1688438569",
             "message": "Hola, estás ocupado, necesito un favor tuyo",
             "flag": false
           },
           {
             "id": 2,
             "sendBy": 4,
-            "date": "1688438569",
-            "hour": "1688438563",
+            "dateTime": "1688438569",
             "message": "Hola, no, estoy en casa, dime",
             "flag": true
           },
           {
             "id": 3,
             "sendBy": 1,
-            "date": "1688438569",
-            "hour": "1688438563",
+            "dateTime": "1688438569",
             "message": "Me puedes ayudar a hacer una tarea",
             "flag": false
           },
           {
             "id": 4,
             "sendBy": 4,
-            "date": "1688438569",
-            "hour": "1688438563",
+            "dateTime": "1688438569",
             "message": "Dime de que se trata",
             "flag": true
           }
@@ -91,32 +87,28 @@
           {
             "id": 1,
             "sendBy": 2,
-            "date": "1688438569",
-            "hour": "1688438563",
+            "dateTimetime": "1688438569",
             "message": "Buenos días",
             "flag": false
           },
           {
             "id": 2,
             "sendBy": 4,
-            "date": "1688438569",
-            "hour": "1688438563",
+            "dateTime": "1688438569",
             "message": "Muy buenos, como vas ?",
             "flag": true
           },
           {
             "id": 3,
             "sendBy": 2,
-            "date": "1688438569",
-            "hour": "1688438563",
+            "dateTime": "1688438569",
             "message": "Muy bien, trabajando y tu?",
             "flag": false
           },
           {
             "id": 4,
             "sendBy": 4,
-            "date": "1688438569",
-            "hour": "1688438563",
+            "dateTime": "1688438569",
             "message": "Estoy estudiando para un examen.",
             "flag": true
           }
@@ -131,32 +123,28 @@
         {
           "id": 1,
           "sendBy": 1,
-          "date": "1688438569",
-          "hour": "1688438563",
+          "dateTime": "1688438569",
           "message": "Hola, ¿cómo estás?",
           "flag": false
         },
         {
           "id": 2,
           "sendBy": 2,
-          "date": "1688438569",
-          "hour": "1688438563",
+          "dateTime": "1688438569",
           "message": "Hola, estoy bien. ¿Y tú?",
           "flag": true
         },
         {
           "id": 3,
           "sendBy": 1,
-          "date": "1688438569",
-          "hour": "1688438563",
+          "dateTime": "1688438569",
           "message": "¿Qué has estado haciendo?",
           "flag": false
         },
         {
           "id": 4,
           "sendBy": 2,
-          "date": "1688438569",
-          "hour": "1688438563",
+          "dateTime": "1688438569",
           "message": "Estoy trabajando en un nuevo proyecto.",
           "flag": true
         }
@@ -171,32 +159,28 @@
         {
           "id": 1,
           "sendBy": 4,
-          "date": "1688438569",
-          "hour": "1688438563",
+          "dateTime": "1688438569",
           "message": "Hola, ¿qué tal?",
           "flag": false
         },
         {
           "id": 2,
           "sendBy": 3,
-          "date": "1688438569",
-          "hour": "1688438563",
+          "dateTime": "1688438569",
           "message": "Hola, todo bien. Gracias",
           "flag": true
         },
         {
           "id": 3,
           "sendBy": 4,
-          "date": "1688438569",
-          "hour": "1688438563",
+          "dateTime": "1688438569",
           "message": "¿Has planeado algo para el fin de semana?",
           "flag": false
         },
         {
           "id": 4,
           "sendBy": 3,
-          "date": "1688438569",
-          "hour": "1688438563",
+          "dateTime": "1688438569",
           "message": "Sí, planeo descansar y pasar tiempo con mi familia.",
           "flag": true
         }
